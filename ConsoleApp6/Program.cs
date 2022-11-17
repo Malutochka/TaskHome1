@@ -13,6 +13,7 @@ class HelloWorld {
             {
                 b = b * 0;
             }
+            return 0;
         }
         else
         {
